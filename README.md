@@ -4,7 +4,7 @@ A neural network built for classification purposes for the discipline Intelligen
 
 ### Installation
 
-After cloning this repository, go to the root directory ([./](/)) and do the following:
+After cloning this repository, go to the root directory and do the following:
 
 ```
 cd src
