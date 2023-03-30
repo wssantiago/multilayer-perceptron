@@ -1,6 +1,6 @@
 # Multilayer Perceptron
 
-### 🔧 Pré-requisitos
+## 🔧 Pré-requisitos
 
 Antes de rodar o projeto, você precisa ter as seguintes ferramentas instaladas na sua máquina:
 
@@ -15,7 +15,7 @@ git clone https://github.com/wssantiago/multilayer-perceptron
 cd multilayer-perceptron
 ```
 
-### 🚀 Como rodar o projeto
+## 🚀 Como rodar o projeto
 
 Após ter clonado o repositório e entrado no diretório raíz, execute os seguintes comantos:
 
